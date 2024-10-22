@@ -36,7 +36,7 @@ node server.js
 
 ### 3. Run the frontend
 ```bash
-cd backend
+cd frontend
 npm start
 ```
 
