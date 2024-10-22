@@ -26,9 +26,18 @@ This project implements a smart FAQ module for the SARAS AI Institute website, d
 ```bash
 git clone https://github.com/tusharj23/smart-faq
 cd smart-faq
-### 1. Clone the Repository
+
+
+### 2. Run the backend
 ```bash
-git clone https://github.com/tusharj23/smart-faq
-cd smart-faq
+cd backend
+node server.js
+
+### 3. Run the frontend
+```bash
+cd backend
+npm start
+
+
 
 
