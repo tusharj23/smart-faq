@@ -24,5 +24,11 @@ This project implements a smart FAQ module for the SARAS AI Institute website, d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/smart-faq-module.git
-cd smart-faq-module
+git clone https://github.com/tusharj23/smart-faq
+cd smart-faq
+### 1. Clone the Repository
+```bash
+git clone https://github.com/tusharj23/smart-faq
+cd smart-faq
+
+
